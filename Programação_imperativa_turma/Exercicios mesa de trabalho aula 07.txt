@@ -1,0 +1,29 @@
+1 - false
+2 - true
+3 - false / true
+4 - true
+5 - 0
+6 - 1
+7 - 0
+8 - 1
+9 - empty
+10 - a. "true"
+   - b. true
+   - c. false
+
+1 - true true
+2 - false false / true true
+3 - null ...
+
+1 - false
+2 - true
+3 - false true
+4 - true
+5 - 0
+6 - 1
+7 - 1
+8 - 0
+9 - empty
+10 - a.true false
+   - b.false true
+   - c.false
